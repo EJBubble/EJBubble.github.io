@@ -1,7 +1,7 @@
 
 # [The Link](https://ejbubble.github.io/Github)
 
-##  :pray: Hey, bro.
+##  :pray: Hey, you, bro.
 
 ## :handshake: This is EJBubble's CV
 
