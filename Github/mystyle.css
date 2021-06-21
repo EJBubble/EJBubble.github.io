@@ -1,0 +1,30 @@
+#headtitle {
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+}
+img{
+	width: 111px;
+	height: 148px;
+	float: left;
+}
+
+body{
+	background-image: url("menu.jpg");
+	background-size: auto;
+}
+
+table{
+	width: 600px;
+	height: 200px;
+	background-color: yellow;
+}
+
+::selection{
+	color : white;
+	background-color: black;
+}
+
+li {
+	text-align: left;
+}
